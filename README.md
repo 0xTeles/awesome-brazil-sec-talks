@@ -2,7 +2,7 @@
 
 Lista curada pela comunidade de conferências brasileiras, ou que vão acontecer no Brasil, de segurança.
 
-Caso esteja faltando alguma conferência, sinta-se a vontade para contribuir!
+Caso esteja faltando alguma conferência, sinta-se à vontade para contribuir!
 
 ## Conferências de 2022
 
