@@ -14,6 +14,7 @@ Caso esteja faltando alguma conferência, sinta-se à vontade para contribuir!
 | [You sh0t the Sheriff](https://www.ysts.org/) | 23 de Maio. | São Paulo, São Paulo. |
 | [Roadsec](https://www.roadsec.com.br/) | 09 de Julho. | São Paulo, São Paulo. |
 | [Bsides Vitoria](https://bit.ly/cfpbsidesvitoria2022) | 30 de Julho. | Vilha Velha, Espirito Santo. |
+| [Bsides João Pessoa](https://www.bsidesjp.com.br/) | 24 de Setembro. | João Pessoa, Paraíba. |
 | [OWASP Chapter Belo Horizonte](https://www.meetup.com/pt-BR/OWASP-Belo-Horizonte-Chapter/events/285130768/) | 18 de Abril. | Belo Horizonte, Minas Gerais. |
 ## Referência
 
